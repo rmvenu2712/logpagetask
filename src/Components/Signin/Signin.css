@@ -1,0 +1,42 @@
+.Mini-container{
+    width: 70%; 
+    padding: 10px;
+}
+input{
+    padding: 13px;
+    border: 1px solid rgba(139, 139, 139, 0.835);
+    border-radius: 12px;
+    background-color: rgba(222, 239, 255, 0.51);
+    width: 90%;
+    overflow: hidden;
+    margin: 10px 0px 3px 0px;
+}
+button{
+    padding: 13px;
+    border-radius: 12px;
+    background-color: rgba(20, 20, 243, 0.917);
+    color: white;
+    width: 100%;
+    border: none;
+    outline: none;
+    
+}
+h1{
+    font-family:'Times New Roman', Times, serif;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+.error{
+    font-size: 13px;
+   padding-bottom: 20px;
+   color: red;
+}
+.fpss{
+    display: flex;
+    justify-content: end;
+}
