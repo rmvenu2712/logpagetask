@@ -15,14 +15,12 @@
     display: grid;
     grid-template-columns: 1fr ;
     padding: 0px;
-    overflow: hidden;
+    
   }
   .container1{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    overflow: hidden;
+    margin:0px auto;
+    width: auto;
+   
   }
   .container2{
     margin: 0px auto; 

@@ -18,7 +18,8 @@ export const Signup = () => {
       setUp_Error(true);
     }
     else {
-      alert(`Check the data - 
+      alert(` Sing up Successfully
+               Check the data - 
               Name  : ${up_name},
               Email : ${up_email},
           Password : ${up_pass}`);

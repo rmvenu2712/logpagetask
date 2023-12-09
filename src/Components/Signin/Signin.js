@@ -13,9 +13,10 @@ export const Signin = () => {
     else if(in_pass.length<=8){
       setError(true);
     }else{
-    alert(`Check the data 
+    alert(`Sign in Successfully
+           Check the data 
             Email : ${in_email},
-        PassWord : ${in_pass}
+        Password : ${in_pass}
     `);
     setIn_email("");
     setIn_pass("");
